@@ -9,7 +9,7 @@
   "EULA": "",
   "help": "",
   "url": "https://github.com/document-capture/advanced-document-search",
-  "logo": "res/images/logo.png",
+  "logo": "../res/images/logo.png",
   "dependencies": [ {
     "id": "6da8dd2f-e698-461f-9147-8e404244dd85",
     "name": "Continia Document Capture 365",
