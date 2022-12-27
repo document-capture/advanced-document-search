@@ -1,0 +1,3 @@
+source/.alpackages/*.app
+source/.vscode/.alcache/*.*
+source/.vscode/*.*

@@ -1,0 +1,43 @@
+{
+  "id": "db96670f-2bbb-496e-b195-01b6ecdd39d1",
+  "name": "DC DocSearch Preview",
+  "publisher": "github.com/document-capture",
+  "version": "1.0.0.0",
+  "brief": "Extension to show a preview and field value on the Document Search page",
+  "description": "App that extends the Document Capture Document Search page with a preview and shows configurable field values",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://github.com/document-capture/advanced-document-search",
+  "logo": "res/images/logo.png",
+  "dependencies": [ {
+    "id": "6da8dd2f-e698-461f-9147-8e404244dd85",
+    "name": "Continia Document Capture 365",
+    "publisher": "Continia Software",
+    "version": "9.0.0.0"
+  },
+  {
+    "id": "4b915d7e-c02a-435f-85ab-649086c1e002",
+    "name": "Continia Core",
+    "publisher": "Continia Software",
+    "version": "4.0.0.0"
+  }],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 61160,
+      "to": 61169
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "8.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
